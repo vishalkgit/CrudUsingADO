@@ -1,0 +1,40 @@
+﻿
+Before Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:03 PM
+----------------------------------
+
+After Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:03 PM
+----------------------------------
+
+Before Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:03 PM
+After Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:04 PM
+----------------------------------
+
+Before Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:07 PM
+----------------------------------
+
+After Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:07 PM
+----------------------------------
+
+Before Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:07 PM
+After Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Index (CrudUsingADO)->04-Dec-24 3:16:07 PM
+----------------------------------
+
+Before Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Privacy (CrudUsingADO)->04-Dec-24 3:16:11 PM
+----------------------------------
+
+After Action execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Privacy (CrudUsingADO)->04-Dec-24 3:16:11 PM
+----------------------------------
+
+Before Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Privacy (CrudUsingADO)->04-Dec-24 3:16:11 PM
+After Result execution->CrudUsingADO.Controllers.HomeController->CrudUsingADO.Controllers.HomeController.Privacy (CrudUsingADO)->04-Dec-24 3:16:11 PM
+----------------------------------
+
+Before Action execution->CrudUsingADO.Controllers.EmployeeController->CrudUsingADO.Controllers.EmployeeController.Index (CrudUsingADO)->04-Dec-24 3:16:13 PM
+----------------------------------
+
+After Action execution->CrudUsingADO.Controllers.EmployeeController->CrudUsingADO.Controllers.EmployeeController.Index (CrudUsingADO)->04-Dec-24 3:16:13 PM
+----------------------------------
+
+Before Result execution->CrudUsingADO.Controllers.EmployeeController->CrudUsingADO.Controllers.EmployeeController.Index (CrudUsingADO)->04-Dec-24 3:16:13 PM
+After Result execution->CrudUsingADO.Controllers.EmployeeController->CrudUsingADO.Controllers.EmployeeController.Index (CrudUsingADO)->04-Dec-24 3:16:13 PM
+----------------------------------
